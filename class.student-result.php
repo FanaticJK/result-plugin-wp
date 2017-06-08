@@ -2,8 +2,6 @@
 
 class Student_Result
 {
-
-
     /**
      * Attached to activate_{ plugin_basename( __FILES__ ) } by register_activation_hook()
      * @static
